@@ -1,0 +1,241 @@
+ACTOR1                   0
+ACTOR2               23622
+ADMIN1                4680
+ADMIN2                8059
+ADMIN3               56060
+ADM_LEVEL_1          99548
+ADM_LEVEL_2         100030
+ADM_LEVEL_3         102827
+ALLY_ACTOR_1         88748
+ALLY_ACTOR_2         95024
+COUNTRY                  0
+EVENT_DATE               0
+EVENT_ID_CNTY            0
+EVENT_ID_NO_CNTY      4680
+EVENT_TYPE               0
+FATALITIES            4478
+GEO_PRECIS            4680
+GEO_PRECISION        99548
+GWNO                     0
+INTER1                   0
+INTER2                   0
+INTERACTION              0
+LATITUDE                 0
+LOCATION                 0
+LONGITUDE                0
+NOTES                10929
+SOURCE                 187
+TIME_PRECISION           0
+YEAR                     0
+dtype: int64
+COUNTRY : 50
+NOTES : 77263
+ADM_LEVEL_1 : 405
+ADM_LEVEL_3 : 339
+ADM_LEVEL_2 : 1030
+ADMIN1 : 652
+ADMIN3 : 2855
+ADMIN2 : 3523
+FATALITIES : 243
+INTER2 : 9
+ACTOR1 : 2700
+EVENT_DATE : 6663
+GEO_PRECISION : 4
+EVENT_TYPE : 10
+EVENT_ID_CNTY : 104227
+EVENT_ID_NO_CNTY : 99549
+SOURCE : 9261
+LOCATION : 15857
+TIME_PRECISION : 3
+INTERACTION : 43
+LONGITUDE : 14285
+LATITUDE : 14090
+GWNO : 50
+YEAR : 19
+INTER1 : 8
+GEO_PRECIS : 4
+ALLY_ACTOR_1 : 2219
+ALLY_ACTOR_2 : 1586
+ACTOR2 : 2306
+range: 25000.0
+mean: 6.05837593985
+std: 97.8348396378
+median: 0.0
+0     67760
+1     10543
+2      4699
+3      2727
+4      1839
+5      1706
+10     1211
+6      1028
+7       875
+8       632
+12      472
+9       461
+20      417
+11      391
+15      344
+...
+237    1
+162    1
+174    1
+179    1
+186    1
+188    1
+190    1
+197    1
+202    1
+205    1
+208    1
+212    1
+231    1
+236    1
+123    1
+Length: 242, dtype: int64
+Unidentified Armed Group (Somalia)                          4376
+Military Forces of Somalia (2012-)                          2497
+ZANU-PF: Zimbabwe African National Union-Patriotic Front    2413
+Protesters (Egypt)                                          2359
+Military Forces of Angola (1975-)                           2347
+Protesters (South Africa)                                   2247
+Al Shabaab                                                  2176
+Military Forces of Democratic Republic of Congo (2001-)     1958
+LRA: Lord's Resistance Army                                 1910
+RUF: Revolutionary United Front                             1729
+Military Forces of Ethiopia (1991-)                         1704
+Military Forces of Sudan (1989-)                            1604
+Unidentified Armed Group (Nigeria)                          1573
+Rioters (South Africa)                                      1536
+Rioters (Egypt)                                             1405
+...
+Kamara Communal Militia (Sierra Leone)                          1
+Shante Alen Sub-Clan Militia (Somalia)                          1
+AAWU: Aggrieved Affiliates Workers' Union                       1
+Kharakh?na Communal Militia                                     1
+ARC: Revolutionary Army of the Congo                            1
+Dabarre-Digil Sub-Clan Militia (Somalia)                        1
+Mutiny of Military Forces of Guinea-Bissau (2005-2009) (Na Tchute Faction)    1
+ASWJ-Sufa: Ahlu Sunna Wal Jamaa (Sufa Faction)                  1
+Harti-Abgal Sub-Clan Militia (Somalia)                          1
+Missira Samoura Ethnic Militia (Mali)                           1
+Darood-Marehan Sub-Clan Militia (Somalia)                       1
+CUD: Coalition for Unity and Democracy Militia                  1
+Government of Libya (2014-) General National Congress           1
+Hager Sub-Clan Militia (Somalia)                                1
+Batetelas Ethnic Militia (Democratic Republic of Congo)         1
+Length: 2700, dtype: int64
+Civilians (Somalia)                                           4357
+Civilians (Zimbabwe)                                          3970
+Civilians (Democratic Republic of Congo)                      2815
+Al Shabaab                                                    2752
+Civilians (Nigeria)                                           2641
+UNITA: National Union for the Total Independence of Angola    2461
+Civilians (Sudan)                                             2326
+Unidentified Armed Group (Somalia)                            2013
+Civilians (Sierra Leone)                                      1981
+LRA: Lord's Resistance Army                                   1753
+Military Forces of Somalia (2004-2012)                        1517
+Civilians (Kenya)                                             1436
+Police Forces of Egypt (2011-)                                1259
+Military Forces of Sudan (1989-)                              1257
+Civilians (Burundi)                                           1153
+...
+Lorma Ethnic Militia (Liberia)                                  1
+NDLEA: National Drug Law EnForcement Agency                     1
+Muruq-Mail Clan Militia (Somalia)                               1
+Police Forces of Ivory Coast (1993-1999)                        1
+Janbeel Clan Militia (Somalia)                                  1
+Black Flag Movement                                             1
+Pirates (Tanzania)                                              1
+Bornou Ethnic Militia (Chad)                                    1
+Xariin-Rahanweyn Sub-Clan Militia (Somalia)                     1
+MINURCA: United Nations Mission in the Central African Republic and Chad (1998-2000)    1
+Busoga Ethnic Militia (Uganda)                                  1
+Daud Clan Militia (Somalia)                                     1
+Sa'ad-Nimcaale Sub-Clan Militia (Somalia)                       1
+Marehan-Reer Siyad Sub-Clan Militia (Somalia)                   1
+Militia (Abdullahi Abokor)                                      1
+Length: 2305, dtype: int64
+Somalia                         15834
+Democratic Republic of Congo     9103
+Nigeria                          7406
+Sudan                            6878
+Egypt                            6205
+Zimbabwe                         5156
+South Africa                     4959
+Sierra Leone                     4583
+Kenya                            4450
+Uganda                           4415
+Libya                            3442
+Burundi                          3057
+Algeria                          3055
+Angola                           3003
+Central African Republic         2566
+Ethiopia                         1993
+South Sudan                      1849
+Ivory Coast                      1601
+Tunisia                          1552
+Liberia                          1153
+Mali                             1025
+Zambia                            920
+Senegal                           871
+Morocco                           766
+Guinea                            717
+Madagascar                        676
+Tanzania                          601
+Namibia                           597
+Rwanda                            589
+Mozambique                        575
+Chad                              570
+Burkina Faso                      405
+Cameroon                          403
+Eritrea                           401
+Niger                             392
+Mauritania                        368
+Republic of Congo                 336
+Ghana                             302
+Malawi                            241
+Togo                              213
+Guinea-Bissau                     209
+Swaziland                         176
+Gabon                             118
+Benin                             107
+Lesotho                           107
+Gambia                            104
+Djibouti                           91
+Botswana                           43
+Equatorial Guinea                  38
+International                       7
+dtype: int64
+2014    16770
+2013    14784
+2012    10483
+2011     6271
+1999     4954
+2015     4615
+1998     4513
+2008     4317
+2010     4193
+2000     4187
+2002     4168
+2009     3689
+2001     3447
+2003     3382
+2007     3351
+1997     3218
+2005     2754
+2004     2655
+2006     2477
+dtype: int64
+Battle-No change of territory                 31223
+Violence against civilians                    29977
+Riots/Protests                                24046
+Non-violent activity by a conflict actor       6915
+Remote violence                                5843
+Non-violent transfer of territory              2030
+Battle-Government regains territory            1767
+Battle-Non-state actor overtakes territory     1693
+Headquarters or base established                726
+Remote Violence                                   8
+dtype: int64
